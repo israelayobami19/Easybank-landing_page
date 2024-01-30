@@ -108,7 +108,7 @@ body{
 }
 
 .andriod {
-    background-image: url(IMG/bg-intro-desktop.svg);
+    background-image: url(bg-intro-desktop.svg);
     background-size: 100%;
     background-repeat: repeat-x, no-repeat;
 
@@ -351,7 +351,7 @@ body{
     }
 
     .andriod {
-        background-image: url(IMG/bg-intro-mobile.svg);
+        background-image: url(bg-intro-mobile.svg);
         background-size: cover;
         background-position-x: 50px;
         background-position-y: -80px;
